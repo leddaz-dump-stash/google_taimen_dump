@@ -1,0 +1,14 @@
+# taimen-user 9 PQ3A.190801.002 5670241 release-keys
+- manufacturer: google
+- platform: msm8998
+- codename: taimen
+- flavor: taimen-user
+- release: 9
+- id: PQ3A.190801.002
+- incremental: 5670241
+- tags: release-keys
+- fingerprint: google/taimen/taimen:9/PQ3A.190801.002/5670241:user/release-keys
+- is_ab: true
+- brand: google
+- branch: taimen-user-9-PQ3A.190801.002-5670241-release-keys
+- repo: google_taimen_dump

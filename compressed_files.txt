@@ -1,0 +1,4 @@
+system/system/priv-app/PrebuiltGmsCorePi/PrebuiltGmsCorePi.apk.xz
+system/system/priv-app/Velvet/Velvet.apk.xz
+system/system/app/Chrome/Chrome.apk.xz
+system/system/app/WallpapersBReel2017/WallpapersBReel2017.apk.xz
