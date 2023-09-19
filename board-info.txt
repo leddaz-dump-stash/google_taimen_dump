@@ -1,0 +1,2 @@
+require version-trustzone=TZ.BF.4.0.6-00146
+require version-vendor=1528757359
