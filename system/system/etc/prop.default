@@ -1,0 +1,16 @@
+#
+# ADDITIONAL_DEFAULT_PROPERTIES
+#
+ro.secure=1
+security.perf_harden=1
+ro.adb.secure=1
+ro.allow.mock.location=0
+ro.debuggable=0
+#
+# BOOTIMAGE_BUILD_PROPERTIES
+#
+ro.bootimage.build.date=Mon Oct 30 19:21:20 UTC 2017
+ro.bootimage.build.date.utc=1509391280
+ro.bootimage.build.fingerprint=google/taimen/taimen:8.0.0/OPD3.170816.023/4424463:user/release-keys
+persist.sys.usb.config=none
+
