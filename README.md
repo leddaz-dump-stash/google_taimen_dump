@@ -1,0 +1,14 @@
+# taimen-user 11 RP1A.200720.009 6720564 release-keys
+- manufacturer: google
+- platform: msm8998
+- codename: taimen
+- flavor: taimen-user
+- release: 11
+- id: RP1A.200720.009
+- incremental: 6720564
+- tags: release-keys
+- fingerprint: google/taimen/taimen:11/RP1A.200720.009/6720564:user/release-keys
+- is_ab: true
+- brand: google
+- branch: taimen-user-11-RP1A.200720.009-6720564-release-keys
+- repo: google_taimen_dump
