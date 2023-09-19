@@ -1,0 +1,14 @@
+# taimen-user 10 QP1A.190711.019 5790879 release-keys
+- manufacturer: google
+- platform: msm8998
+- codename: taimen
+- flavor: taimen-user
+- release: 10
+- id: QP1A.190711.019
+- incremental: 5790879
+- tags: release-keys
+- fingerprint: google/taimen/taimen:10/QP1A.190711.019/5790879:user/release-keys
+- is_ab: true
+- brand: google
+- branch: taimen-user-10-QP1A.190711.019-5790879-release-keys
+- repo: google_taimen_dump
