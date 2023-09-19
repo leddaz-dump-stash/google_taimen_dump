@@ -1,0 +1,14 @@
+# taimen-user 8.1.0 OPM1.171019.011 4448085 release-keys
+- manufacturer: google
+- platform: msm8998
+- codename: taimen
+- flavor: taimen-user
+- release: 8.1.0
+- id: OPM1.171019.011
+- incremental: 4448085
+- tags: release-keys
+- fingerprint: google/taimen/taimen:8.1.0/OPM1.171019.011/4448085:user/release-keys
+- is_ab: true
+- brand: google
+- branch: taimen-user-8.1.0-OPM1.171019.011-4448085-release-keys
+- repo: google_taimen_dump
