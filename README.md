@@ -1,0 +1,14 @@
+# taimen-user 10 QQ3A.200805.001 6578210 release-keys
+- manufacturer: google
+- platform: msm8998
+- codename: taimen
+- flavor: taimen-user
+- release: 10
+- id: QQ3A.200805.001
+- incremental: 6578210
+- tags: release-keys
+- fingerprint: google/taimen/taimen:10/QQ3A.200805.001/6578210:user/release-keys
+- is_ab: true
+- brand: google
+- branch: taimen-user-10-QQ3A.200805.001-6578210-release-keys
+- repo: google_taimen_dump
